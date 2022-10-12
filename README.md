@@ -21,6 +21,8 @@ Campaign Monitor Web helped us easily create beautiful emails that turned our Bo
 <p>1.Vaibhav Ghawale </p>
 <p>2.Abrar Alam </p>
 <p>3.Pranay Chakraborty</p>
+<p>4. Rajesh Pradhan</p>
+<p>5. Dhananjay Kandalkar</p>
 
 <h2>Key Learning From Project</h2>
 <p>Got more Idea about implementing a HTML and CSS.</p>
