@@ -1,6 +1,11 @@
+# symptomatic-property-4004
+
 <h1 align="center"> Hi,<img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> Everyone <a href="#" target="_blank"> Welcome </a></h1>
 <h3 align="center" >-----  Created A clone of  -----</h3>
 <h1 align="center"><a href="https://jade-sawine-5e8a26.netlify.app/" target="_blank"> CampaingMonitor.com</a></h1>
+<img src="https://github.com/Abrar2003/symptomatic-property-4004/blob/main/readmepic/Screenshot%20(2192).png"/>
+<img src="https://github.com/Abrar2003/symptomatic-property-4004/blob/main/readmepic/Screenshot%20(2193).png"/>
+<img src="https://github.com/Abrar2003/symptomatic-property-4004/blob/main/readmepic/Screenshot%20(2194).png"/>
 
 <p>
 Campaign Monitor Web helped us easily create beautiful emails that turned our Bombshell wetsuit into a global phenomenon. build with the five team members And completed the project in just 6 days before the deadline.
@@ -21,8 +26,6 @@ Campaign Monitor Web helped us easily create beautiful emails that turned our Bo
 <p>1.Vaibhav Ghawale </p>
 <p>2.Abrar Alam </p>
 <p>3.Pranay Chakraborty</p>
-<p>4. Rajesh Pradhan</p>
-<p>5. Dhananjay Kandalkar</p>
 
 <h2>Key Learning From Project</h2>
 <p>Got more Idea about implementing a HTML and CSS.</p>
@@ -37,8 +40,17 @@ Campaign Monitor Web helped us easily create beautiful emails that turned our Bo
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
 <h2>Responsibilities<h2>
+<h4>Abrar Alam</h4>
+    
+  <img src="https://github.com/Abrar2003/symptomatic-property-4004/blob/main/readmepic/Screenshot%20(2195).png"/>
+<img src="https://github.com/Abrar2003/symptomatic-property-4004/blob/main/readmepic/Screenshot%20(2196).png"/>
+<img src="https://github.com/Abrar2003/symptomatic-property-4004/blob/main/readmepic/Screenshot%20(2197).png"/>
 <h4>Vaibhav Ghawale </h4>
  <p> Creating a payment page where user can move to final purchasing plan which user selected and connect purchasing page to all payment getway for more effient way user can easily make a order. Make sure After payment user can see the payment process and All for understanding order is placed or not And all functionalities use us Javascript ES6 concept. </p>
+  
+  <img src="https://github.com/Abrar2003/symptomatic-property-4004/blob/main/readmepic/Screenshot%20(2198).png"/>
+<img src="https://github.com/Abrar2003/symptomatic-property-4004/blob/main/readmepic/Screenshot%20(2199).png"/>
+<img src="https://github.com/Abrar2003/symptomatic-property-4004/blob/main/readmepic/Screenshot%20(2200).png"/>
 
   
 <h1 align="center"> <img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> Thank You <img style="width: 35px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt=""> <a href="https://reliable-llama-c038f5.netlify.app/" target="_blank"> </a></h1>
